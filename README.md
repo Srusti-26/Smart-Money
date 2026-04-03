@@ -136,11 +136,10 @@ UI: `http://localhost:3000`
 
 ## 📷 Demo
 
-The following demo uses the actual repository file and is displayed with a relative path for GitHub compatibility:
 
-![Smart Money demo](Demo/Recording 2026-04-03 211145.gif)
 
-> Note: This README now references only the real local demo asset, no external or placeholder links.
+![Smart Money demo](\Demo\Recording 2026-04-03 211145.gif)
+
 
 ## 🛡️ License
 

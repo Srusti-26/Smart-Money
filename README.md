@@ -134,15 +134,13 @@ UI: `http://localhost:3000`
 - `GET /api/ml/simulate`
 - `GET /api/ml/investments`
 
-## 📷 Screenshots & Demo
+## 📷 Demo
 
-- Screenshot 1: `docs/screenshots/dashboard.png` (create if missing)
-- Local GIF demo: `Demo/Recording 2026-04-03 211145.gif`
-- Local MP4 demo: `Demo/compressed_Recording 2026-04-03 211311.mp4`
-- Alternative hosted link sample: `https://your-domain.com/demo/smart-money-flow.gif`
+The following demo uses the actual repository file and is displayed with a relative path for GitHub compatibility:
 
-> Pro tip: Push actual screenshots in `docs/screenshots/` and use updated paths in this README for production-ready repo.
-- MP4 demo (optional): `https://your-domain.com/demo/smart-money-demo.mp4`
+![Smart Money demo](Demo/Recording 2026-04-03 211145.gif)
+
+> Note: This README now references only the real local demo asset, no external or placeholder links.
 
 ## 🛡️ License
 

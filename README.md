@@ -1,6 +1,13 @@
+
 # Smart Money
 
 > A full-stack AI-powered financial assistant with ML-driven insights, expense prediction, anomaly detection, and personalized investment advice.
+## 📷 Demo
+
+
+
+![Smart Money demo](Demo/Recording%202026-04-03%20211145.gif)
+
 
 ## 🚀 Project Overview
 
@@ -133,12 +140,6 @@ UI: `http://localhost:3000`
 - `GET /api/ml/health-score`
 - `GET /api/ml/simulate`
 - `GET /api/ml/investments`
-
-## 📷 Demo
-
-
-
-![Smart Money demo](Demo/Recording%202026-04-03%20211145.gif)
 
 
 ## 🛡️ License

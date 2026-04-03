@@ -16,7 +16,7 @@ python app.py         # starts on port 5000
 cd frontend && npm install && npm start  # starts on port 3000
 ```
 
-**Login:** `rahul@example.com` / `password123`
+**Login:** `srusti@example.com` / `password123`
 
 See `docs/README.md` for full documentation.
 
@@ -36,3 +36,15 @@ See `docs/README.md` for full documentation.
 - ✅ Middle-Class Budget Mode
 - ✅ Interactive Charts (Recharts)
 - ✅ Dark Mode UI with responsive design
+
+## Demo assets
+- GIF: `Demo/Recording 2026-04-03 211145.gif`
+- MP4: `Demo/compressed_Recording 2026-04-03 211311.mp4`
+- Dashboard screenshot: `Demo/dashboard.jpeg`
+- Budget planner screenshot: `Demo/budget_planner.jpeg`
+- Goals screenshot: `Demo/goal.jpeg`
+- Investment suggestions screenshot: `Demo/investment_advisor.jpeg`
+- Insights screenshot: `Demo/ai_insights.jpeg`
+- Transactions screenshot: `Demo/transactions.jpeg`
+- Login screenshot: `Demo/sign_in_page.jpeg`
+- Signup screenshot: `Demo/Sign_up_page.jpeg`

@@ -153,7 +153,7 @@ This repo uses the proprietary license in `LICENSE`:
 - No commercial use
 
 ## 🧾 Quick start user (seed)
-- Email: `rahul@example.com`
+- Email: `srusti@example.com`
 - Password: `password123`
 
 ## 📦 Branch / github setup

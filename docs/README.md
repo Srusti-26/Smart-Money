@@ -89,7 +89,7 @@ python seed_data.py
 ```
 
 This creates:
-- Test user: `rahul@example.com` / `password123`
+- Test user: `demo@example.com` / `password123`
 - 4 months of realistic transaction data
 - Budget and financial goals
 
@@ -222,7 +222,7 @@ npm start
 # Login
 curl -X POST http://localhost:5000/api/auth/login \
   -H "Content-Type: application/json" \
-  -d '{"email":"rahul@example.com","password":"password123"}'
+  -d '{"email":"demo@example.com","password":"password123"}'
 
 # Get monthly summary (with JWT)
 curl http://localhost:5000/api/transactions/summary?month=01&year=2025 \
@@ -302,7 +302,7 @@ Replace `.env` MONGO_URI with Atlas connection string.
 ## 📝 Test Credentials
 
 ```
-Email:    rahul@example.com
+Email:    demo@example.com
 Password: password123
 Salary:   ₹60,000/month
 Data:     4 months of transactions

@@ -1,0 +1,21 @@
+# Node dependencies
+frontend/node_modules/
+
+# Python env
+backend/venv/
+*.pyc
+__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Secrets
+.env
+
+# IDE config
+.vscode/
+.idea/

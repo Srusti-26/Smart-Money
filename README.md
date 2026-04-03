@@ -138,7 +138,7 @@ UI: `http://localhost:3000`
 
 
 
-![Smart Money demo](\Demo\Recording 2026-04-03 211145.gif)
+![Smart Money demo](Demo/Recording%202026-04-03%20211145.gif)
 
 
 ## 🛡️ License

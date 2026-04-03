@@ -166,4 +166,4 @@ This repo uses the proprietary license in `LICENSE`:
 
 ---
 
-Maintainer: Srusti-26
+ Srusti-26

@@ -7,7 +7,7 @@
 
 
 ![Smart Money demo](Demo/Recording%202026-04-03%20211145.gif)
-
+Check out the Demo folder to see the full project overview
 
 ## 🚀 Project Overview
 
